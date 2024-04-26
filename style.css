@@ -61,7 +61,6 @@ body::before {
 .container__texto-azul {
     color: #1875E8;
     display: block;
-
 }
 
 .container__campo {
@@ -114,7 +113,7 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
+    font-size: 70px;
     font-style: normal;
     font-weight: 700;
     line-height: 100%;
